@@ -1,4 +1,4 @@
-# floating-respinsive-template
+# floating-responsive-template
 design website by using html,css and apply the floating and responsive 
 ## The design:
 
